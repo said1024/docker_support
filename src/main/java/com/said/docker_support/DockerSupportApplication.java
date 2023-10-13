@@ -8,7 +8,7 @@ public class DockerSupportApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DockerSupportApplication.class, args);
-		System.out.println("docker compose support");
+		System.out.println("docker compose support 0");
 	}
 
 }
